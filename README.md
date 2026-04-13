@@ -80,12 +80,3 @@ RGB: (255, 0, 0)
 * Image processing practice
 * Color recognition systems
 * Beginner Python projects
-
-## 👨‍💻 Author
-
-Original Repository:
-https://github.com/sathvik995/Python-color-detection
-
----
-
-⭐ If you like this project, consider giving it a star on GitHub!
